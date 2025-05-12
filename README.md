@@ -1,6 +1,6 @@
 # Bayesian-Deep-Learning
 
-Short intro to BDL:
+## Short intro
 
 Bayesian Deep Learning is an active area of research, combining two things:
 
